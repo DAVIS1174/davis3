@@ -1,0 +1,80 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http- equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tribute Page</title><style>
+      body{
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        background-color: #f4f4f4;
+      }
+      #main{
+        max-width: 800px;
+        margin: 20px auto;
+        background: white;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+      #title{
+        font-size: 2.5em;
+        margin-bottom: 20px;
+      }
+      #img-div{
+        margin: 20px 0;
+      }
+      #image{
+        max-width: 100%;
+        height: auto;
+        border-radius: 10px;
+        display: block;
+        margin: 0 auto;
+      }
+      #img-caption{
+        font-style: italic;
+        margin-top: 10px;
+      }
+      #tribute-info{
+        margin: 20px 0;
+        text-align: left;
+      }
+      #tribute-link{
+        color: #007BFF;
+        text-decoration: none;
+        font-weight: bold;
+      }
+      #tribute-link:hover{
+        text-decoration: underline;
+      }
+      </style>
+      </head>
+      <body>
+        <main id="main">
+          <h1 id="title">Your Subject's Name Here</h1>
+          <div id="img-div">
+            <img id="image" src="your-image-url.jpg" alt="Subject image description" >
+            <figcaption id="img-caption">
+            This is an image caption describing the subject.</figcaption>
+            </div>
+            <div id="tribute-info">
+              <p>Here is some detailed information about the subject of your tribute page. You can add multiple paragraphs or other elements as needed to provide more content about the subject</p></div>
+              <a id="tribute-link" href="styles.css" target="_blank">Find out more about the subject</a>
+              </main>
+              </body>
+              </html>
+
+** end of undefined **
+
+** start of undefined **
+
+
+
+** end of undefined **
+
